@@ -1,12 +1,10 @@
 def fill_backpack(items, max_weight):
-    # Сортируем список вещей по возрастанию массы
     sorted_items = sorted(items, key=lambda x: x[1])
 
     backpack_contents = []
     current_weight = 0
 
     for item in sorted_items:
-        # Если добавление вещи не превышает максимальную грузоподъемность, добавляем ее в рюкзак
         if current_weight + item[1] <= max_weight:
             backpack_contents.append(item[0])
             current_weight += item[1]
