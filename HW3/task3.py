@@ -3,7 +3,6 @@ from collections import Counter
 
 
 def most_common_words(text, top_n=10):
-    # Очистим текст от знаков препинания и приведем к нижнему регистру
     cleaned_text = re.sub(r'[^\w\s]', '', text).lower()
 
     words = cleaned_text.split()
