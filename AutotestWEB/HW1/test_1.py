@@ -12,7 +12,7 @@ def test_1(login):
     for item in result:
         lst.append(item['id'])
     print(lst)
-    assert 97452 in lst, "test_1 fail"
+    assert 98489 in lst, "test_1 fail"
 
 
 def test_2(login):
