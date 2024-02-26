@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru/
+driver_path: D:\Courses\GBPY\AutotestWEB\Selenium\chromedriver.exe
+sleep_time: 5
+login: 'Totogogi'
+passwd: 'b235f795c2'
+browser: chrome
+title: 'New'
+description: 'New post'
+content: 'Hello Sir'

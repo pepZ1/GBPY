@@ -1,0 +1,12 @@
+2024-02-26 13:53:08 INFO ====== WebDriver manager ======
+2024-02-26 13:53:09 INFO Get LATEST chromedriver version for google-chrome
+2024-02-26 13:53:09 INFO Get LATEST chromedriver version for google-chrome
+2024-02-26 13:53:09 INFO Driver [C:\Users\Рэпс\.wdm\drivers\chromedriver\win64\121.0.6167.184\chromedriver-win32/chromedriver.exe] found in cache
+2024-02-26 13:53:11 INFO Test4
+2024-02-26 13:53:12 INFO Send Totogogi to element //*[@id="login"]/div[1]/label/input
+2024-02-26 13:53:12 INFO Send b235f795c2 to element //*[@id="login"]/div[2]/label/input
+2024-02-26 13:53:13 INFO Click login button
+2024-02-26 13:53:13 INFO Click contact button
+2024-02-26 13:53:14 INFO input contact name
+2024-02-26 13:53:15 INFO input contact email
+2024-02-26 13:53:15 INFO input contact content
