@@ -1,0 +1,23 @@
+2024-02-29 15:20:43 INFO ====== WebDriver manager ======
+2024-02-29 15:20:44 INFO Get LATEST chromedriver version for google-chrome
+2024-02-29 15:20:45 INFO Get LATEST chromedriver version for google-chrome
+2024-02-29 15:20:45 INFO Driver [C:\Users\Рэпс\.wdm\drivers\chromedriver\win64\122.0.6261.94\chromedriver-win32/chromedriver.exe] found in cache
+2024-02-29 15:20:46 INFO Test1
+2024-02-29 15:20:55 INFO ====== WebDriver manager ======
+2024-02-29 15:20:56 INFO Get LATEST chromedriver version for google-chrome
+2024-02-29 15:20:56 INFO Get LATEST chromedriver version for google-chrome
+2024-02-29 15:20:56 INFO Driver [C:\Users\Рэпс\.wdm\drivers\chromedriver\win64\122.0.6261.94\chromedriver-win32/chromedriver.exe] found in cache
+2024-02-29 15:20:58 INFO Test2
+2024-02-29 15:21:07 INFO ====== WebDriver manager ======
+2024-02-29 15:21:08 INFO Get LATEST chromedriver version for google-chrome
+2024-02-29 15:21:08 INFO Get LATEST chromedriver version for google-chrome
+2024-02-29 15:21:08 INFO Driver [C:\Users\Рэпс\.wdm\drivers\chromedriver\win64\122.0.6261.94\chromedriver-win32/chromedriver.exe] found in cache
+2024-02-29 15:21:10 INFO Test3
+2024-02-29 15:21:26 INFO ====== WebDriver manager ======
+2024-02-29 15:21:27 INFO Get LATEST chromedriver version for google-chrome
+2024-02-29 15:21:27 INFO Get LATEST chromedriver version for google-chrome
+2024-02-29 15:21:27 INFO Driver [C:\Users\Рэпс\.wdm\drivers\chromedriver\win64\122.0.6261.94\chromedriver-win32/chromedriver.exe] found in cache
+2024-02-29 15:21:28 INFO Test4
+2024-02-29 15:21:32 INFO input contact name
+2024-02-29 15:21:32 INFO input contact email
+2024-02-29 15:21:32 INFO input contact content
